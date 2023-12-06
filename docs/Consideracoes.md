@@ -1,0 +1,3 @@
+# 10. Considerações Finais
+
+Este documento de visão fornece uma visão geral do projeto West Limp. Ele descreve a finalidade, os objetivos, o escopo, os principais stakeholders, os requisitos principais, os diagramas de caso de uso, diagrama de classes, protótipos de possíveis telas para o sistema, cronograma e entrega do aplicativo e riscos e mitigações possíveis. Este documento servirá como base para o desenvolvimento do projeto, auxiliando na compreensão e alinhamento das partes interessadas, além de fornecer um panorama para possíveis clientes e apoiadores financeiros do projeto.
