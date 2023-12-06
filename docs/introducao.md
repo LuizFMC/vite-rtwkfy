@@ -30,4 +30,4 @@ Loc.: Abreviação de "localização".
 Tech: Abreviação de "tecnologia".
 
 ## 1.4 Público-alvo
-Prestaremos serviços pessoais  de limpesza doméstica(casa e apratamentos de grande porte), com clientes majoritariamente de classe média/média alta que possuem residencias enormes e não tem tempo disponível durante a semana para cuidar de seus lares . 
+Prestaremos serviços pessoais  de limpeza doméstica(casa e apartamentos de grande porte), com clientes majoritariamente de classe média/média alta que possuem residências enormes e não tem tempo disponível durante a semana para cuidar de seus lares . 
