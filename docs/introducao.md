@@ -20,4 +20,14 @@ Este projeto visa facilitar a contratação de serviços domésticos, conectando
 
 **Acrônimos:**
 - APP: Aplicativo (abreviação de "application" em inglês).
-- GPS: Sistema de Pos
+- GPS: Sistema de PosPosicionamento Global
+**Abreviações:**
+Res.: Abreviação de "residência" ou "residencial".
+Corp.: Abreviação de "corporativo" ou "corporação". 
+Prof.: Abreviação de "profissional".
+Serv.: Abreviação de "serviço" ou "serviços". 
+Loc.: Abreviação de "localização". 
+Tech: Abreviação de "tecnologia".
+
+## 1.4 Público-alvo
+Prestaremos serviços pessoais  de limpesza doméstica(casa e apratamentos de grande porte), com clientes majoritariamente de classe média/média alta que possuem residencias enormes e não tem tempo disponível durante a semana para cuidar de seus lares . 
