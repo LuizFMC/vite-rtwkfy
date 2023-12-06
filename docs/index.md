@@ -10,5 +10,5 @@ hero:
       link: /introducao
     - theme: alt
       text: Veja no GitHub
-      link: https://github.com/vuejs/vitepress
+      link: https://github.com/LuizFMC/vite-rtwkfy
 ---
